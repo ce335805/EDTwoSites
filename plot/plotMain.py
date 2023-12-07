@@ -4,6 +4,6 @@ from interbandPaper import plotTimeEvolCorrSideBySide
 def main():
 
     plotTimeEvolCorrSideBySide()
-    #asOfFreq()
+    asOfFreq()
 
 main()
